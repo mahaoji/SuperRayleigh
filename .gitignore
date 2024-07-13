@@ -10,11 +10,7 @@
 !/IMdata_anal.m
 !/DrivingCamera.m
 !/DrivingSLM.m
-!/*.dll
-!/*.mds
+!/*.md
 !/.gitignore
-!/CameraDll
-!/helper
-!/BK
 
 
